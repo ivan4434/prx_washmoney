@@ -9,4 +9,4 @@ with the following 100% Configurable aspects (in config.lua):
 
 - Change language = 'es' or 'en'
 
-You can join my discord server for any question: https://discord.gg/9btuXPwXzR
+You can join my discord server for any question: http://discord.gg/7ShuNDdGsj
