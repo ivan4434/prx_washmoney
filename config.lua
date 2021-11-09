@@ -1,4 +1,4 @@
---Made by iv44
+--Made by ivan_44 | PRX Corp | https://discord.gg/Jm2UsCKN9S
 
 
 Config = {}
