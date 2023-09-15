@@ -1,6 +1,4 @@
 Locales['en'] = {
-
-
 	['yes'] = 'Yes',
 	['no'] = 'No',
 	['wash_money?'] = 'Press ~INPUT_CONTEXT~ to wash your ~r~black money',
@@ -10,8 +8,5 @@ Locales['en'] = {
 	['blip'] = 'Wash Black Money',
 	['dont_have_money'] = 'You dont have ~r~black money~s~ to wash',
 	['are_wash1'] = 'You have ~g~washed~s~ ',
-	['are_wash2'] = '€ ~r~ black money',
-
-
-
+	['are_wash2'] = '€ ~r~ black money'
 }

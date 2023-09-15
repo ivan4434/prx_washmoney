@@ -1,20 +1,20 @@
 fx_version 'adamant'
 game 'gta5'
 
-client_scripts  {
+fx_version 'cerulean'
+games { 'gta5' }
+author 'Ivan_44'
 
-	'@es_extended/locale.lua',
-	'config.lua',
-	'client/*.lua',
-	'locales/es.lua',
-	'locales/en.lua'
+shared_scripts {
+	"locales.lua",
+	"config.lua",
+	"locales/*"
+}
 
+client_scripts {
+	"client/*"
 }
 
 server_scripts {
-	'@es_extended/locale.lua',
-	'config.lua',
-	'locales/es.lua',
-	'locales/en.lua',
-	'server/*.lua'
+	"server/*"
 }
